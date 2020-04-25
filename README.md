@@ -16,7 +16,7 @@ _how much  does it effects the employment status ?_
 
 for futher technical information plese check the
 
-**code** : 
+**code** : https://github.com/WiemBorchani/Write-A-Data-Science-Blog-Post/blob/master/developer_survey_2018.ipynb
 
 **blog** : https://medium.com/@wiembborchani/does-formal-education-give-sufficient-preparation-for-the-working-world-30709279e162
 
